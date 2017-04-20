@@ -11,3 +11,4 @@
  In terminal we can see the new socket.io connection when localhost was opened in chrome.
  In Safari a localhost:3000 connection was opened and it too, can be seen in termnial as a new connection.
  The program is set so that whatever is drawen in white will appear in red in the other socket connections.
+
