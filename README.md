@@ -12,5 +12,5 @@
  In Safari a localhost:3000 connection was opened and it too, can be seen in termnial as a new connection.
  The program is set so that whatever is drawen in white will appear in red in the other socket connections.
   
-  <img src="Screen Shot 2017-04-20 at 12.16.09 AM.jpg" width="350"/>
-
+  <img src="Screen Shot 2017-04-20 at 12.16.09 AM.jpg" width="400"/>
+ <img src="Screen Shot 2017-04-20 at 12.17.22 AM.jpg" width="400"/>
